@@ -1,0 +1,79 @@
+%%
+%% Wahrscheinlichkeit & Statistik, FS 2018
+%%
+%% (C) 2018 Jens Eirik Saethre
+%% 
+%% Licence: Creative Commons Attribution-Share Alike 3.0 Unported
+%% http://creativecommons.org/licenses/by-sa/3.0/
+%% 
+
+\documentclass[11pt]{article}
+\usepackage[left=1mm, right=1mm, top=1mm, bottom=1mm,paperwidth=140mm, paperheight=297mm]{geometry}
+\usepackage[utf8x]{inputenc}
+\usepackage{amssymb, amsfonts, amsmath}
+\usepackage{xcolor}
+\usepackage[e]{esvect}
+\usepackage{floatrow} % allows to insert pictures into proofs and theorems
+
+\usepackage{cancel}
+
+\usepackage{graphicx}
+%\usepackage{picins}
+\usepackage{tabularx}
+\usepackage{mwe} % for blindtext and example-image-a in example
+\usepackage{wrapfig}
+\usepackage{framed}
+\usepackage{booktabs}
+\colorlet{shadecolor}{orange!15}
+
+\usepackage{multirow}
+\usepackage{multicol}
+\columnsep24pt
+\columnseprule0.1pt
+
+\input{style.sty}
+
+\usepackage[english,german]{babel} 
+\begin{document}
+
+
+\author{Jens Eirik Saethre}
+\title{Wahrscheinlichkeit \& Statistik}
+
+\date{\today}
+%\maketitle
+
+\setcounter{tocdepth}{2}
+%\tableofcontents
+
+%\thispagestyle{empty}
+%\newpage
+\setcounter{page}{1}
+
+%\begin{multicols}{2}
+
+% include the individual chapters
+\part{Wahrscheinlichkeitstheorie}
+\input{kap1.tex}
+\input{kap2.tex}
+\input{kap3.tex}
+\input{kap4.tex}
+\input{kap5.tex}
+
+\part{Statistik}
+\input{kap6.tex}
+\input{kap7.tex}
+\input{kap8.tex}
+\input{kap9.tex}
+\input{rest.tex}
+%\input{kap10.tex}
+
+
+% fill the page
+%\clearpage
+
+%\end{multicols}
+
+\end{document}
+
+

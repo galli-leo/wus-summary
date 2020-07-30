@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 800 600"
+   id="svg3475"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="raised_cos_pdf_mod.svg">
+  <metadata
+     id="metadata3963">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview3961"
+     showgrid="false"
+     inkscape:zoom="0.765"
+     inkscape:cx="400"
+     inkscape:cy="300"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3475" />
+  <desc
+     id="desc3477">Produced by GNUPLOT 4.2 patchlevel 6  </desc>
+  <defs
+     id="defs3479">
+    <circle
+       id="gpDot"
+       r="0.5"
+       stroke-width="0.5" />
+    <path
+       id="gpPt0"
+       stroke-width="0.111"
+       stroke="currentColor"
+       d="M-1,0 h2 M0,-1 v2" />
+    <path
+       id="gpPt1"
+       stroke-width="0.111"
+       stroke="currentColor"
+       d="M-1,-1 L1,1 M1,-1 L-1,1" />
+    <path
+       id="gpPt2"
+       stroke-width="0.111"
+       stroke="currentColor"
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+    <rect
+       id="gpPt3"
+       stroke-width="0.111"
+       stroke="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <rect
+       id="gpPt4"
+       stroke-width="0.111"
+       stroke="currentColor"
+       fill="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <circle
+       id="gpPt5"
+       stroke-width="0.111"
+       stroke="currentColor"
+       cx="0"
+       cy="0"
+       r="1" />
+    <use
+       xlink:href="#gpPt5"
+       id="gpPt6"
+       fill="currentColor"
+       stroke="none" />
+    <path
+       id="gpPt7"
+       stroke-width="0.111"
+       stroke="currentColor"
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt8"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt9"
+       stroke="currentColor"
+       transform="rotate(180)" />
+    <use
+       xlink:href="#gpPt9"
+       id="gpPt10"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt3"
+       id="gpPt11"
+       stroke="currentColor"
+       transform="rotate(45)" />
+    <use
+       xlink:href="#gpPt11"
+       id="gpPt12"
+       fill="currentColor"
+       stroke="none" />
+  </defs>
+  <g
+     style="fill:none; color:white; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g3495" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3499"
+     d="m 141.3,528 18,0 m 564.9,0 -18,0" />
+  <g
+     id="g3501"
+     style="font-size:30px;text-anchor:end;color:#000000;fill:#000000;stroke:none;font-family:Arial"
+     transform="translate(108.6,537)">
+    <text
+       id="text3503">
+      <tspan
+         id="tspan3505">0</tspan>
+    </text>
+  </g>
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3507"
+     d="m 141.3,507.4 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3515"
+     d="m 141.3,486.8 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3523"
+     d="m 141.3,466.2 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3531"
+     d="m 141.3,445.6 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3539"
+     d="m 141.3,425 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3547"
+     d="m 141.3,404.3 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3555"
+     d="m 141.3,383.7 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3563"
+     d="m 141.3,363.1 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3571"
+     d="m 141.3,342.5 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3579"
+     d="m 141.3,321.9 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3587"
+     d="m 141.3,301.3 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3595"
+     d="m 141.3,280.7 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3603"
+     d="m 141.3,260.1 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3611"
+     d="m 141.3,239.5 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3619"
+     d="m 141.3,218.9 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3627"
+     d="m 141.3,198.3 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3635"
+     d="m 141.3,177.7 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3643"
+     d="m 141.3,157 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3651"
+     d="m 141.3,136.4 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3659"
+     d="m 141.3,115.8 18,0 m 564.9,0 -18,0" />
+  <g
+     id="g3661"
+     style="font-size:30px;text-anchor:end;color:#000000;fill:#000000;stroke:none;font-family:Arial"
+     transform="translate(108.6,124.8)">
+    <text
+       id="text3663">
+      <tspan
+         id="tspan3665">1/s</tspan>
+    </text>
+  </g>
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3667"
+     d="m 141.3,95.2 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3675"
+     d="m 141.3,74.6 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3683"
+     d="m 141.3,54 18,0 m 564.9,0 -18,0" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3691"
+     d="m 141.3,33.4 18,0 m 564.9,0 -18,0" />
+  <g
+     id="g3693"
+     style="font-size:30px;text-anchor:end;color:#000000;fill:#000000;stroke:none;font-family:Arial"
+     transform="translate(158.6,42.4)" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3699"
+     d="m 141.3,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3707"
+     d="m 160.7,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3715"
+     d="m 180.2,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3723"
+     d="m 199.6,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3731"
+     d="m 219,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3739"
+     d="m 238.5,528 0,-18 m 0,-476.6 0,18" />
+  <g
+     id="g3741"
+     style="font-size:30px;text-anchor:middle;color:#000000;fill:#000000;stroke:none;font-family:Arial"
+     transform="translate(238.5,565)">
+    <text
+       id="text3743">
+      <tspan
+         id="tspan3745">μ-s</tspan>
+    </text>
+  </g>
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3747"
+     d="m 257.9,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3755"
+     d="m 277.3,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3763"
+     d="m 296.7,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3771"
+     d="m 316.2,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3779"
+     d="m 335.6,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3787"
+     d="m 355,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3795"
+     d="m 374.5,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3803"
+     d="m 393.9,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3811"
+     d="m 413.3,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3819"
+     d="m 432.8,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3827"
+     d="m 452.2,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3835"
+     d="m 471.6,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3843"
+     d="m 491,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3851"
+     d="m 510.5,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3859"
+     d="m 529.9,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3867"
+     d="m 549.3,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3875"
+     d="m 568.8,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3883"
+     d="m 588.2,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3891"
+     d="m 607.6,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3899"
+     d="m 627.1,528 0,-18 m 0,-476.6 0,18" />
+  <g
+     id="g3901"
+     style="font-size:30px;text-anchor:middle;color:#000000;fill:#000000;stroke:none;font-family:Arial"
+     transform="translate(627.1,565)">
+    <text
+       id="text3903">
+      <tspan
+         id="tspan3905">μ+s</tspan>
+    </text>
+  </g>
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3907"
+     d="m 646.5,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3915"
+     d="m 665.9,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3923"
+     d="m 685.3,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3931"
+     d="m 704.8,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3939"
+     d="m 724.2,528 0,-18 m 0,-476.6 0,18" />
+  <path
+     style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     inkscape:connector-curvature="0"
+     id="path3947"
+     d="m 141.3,528 582.9,0 m -582.9,0 0,-494.6 0,494.6 582.9,0 0,-494.6 -582.9,0 z" />
+  <g
+     style="fill:none; color:black; stroke:currentColor; stroke-width:5.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g3949" />
+  <g
+     style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g3951"
+     transform="translate(-34,0)">
+    <path
+       d="m 175.3,528 5.9,0 5.9,0 5.9,0 5.9,0 5.8,0 5.9,0 5.9,0 5.9,0 5.9,0 5.9,0 5.9,0 5.9,0 5.8,0 5.9,0 5.9,0 5.9,0 5.9,-0.2 5.9,-1.9 5.9,-3.7 5.9,-5.5 5.8,-7.3 5.9,-9 5.9,-10.6 5.9,-12.1 5.9,-13.6 5.9,-14.8 5.9,-16 5.9,-17 5.8,-17.8 5.9,-18.5 5.9,-19.1 5.9,-19.4 5.9,-19.6 5.9,-19.6 5.9,-19.4 5.9,-19 5.9,-18.6 5.8,-17.8 5.9,-17 5.9,-16 5.9,-14.8 5.9,-13.5 5.9,-12.2 5.9,-10.6 5.9,-8.9 5.8,-7.3 5.9,-5.6 5.9,-3.7 5.9,-1.8 5.9,0 5.9,1.8 5.9,3.7 5.9,5.6 5.8,7.3 5.9,8.9 5.9,10.6 5.9,12.2 5.9,13.5 5.9,14.8 5.9,16 5.9,17 5.8,17.8 5.9,18.6 5.9,19 5.9,19.4 5.9,19.6 5.9,19.6 5.9,19.4 5.9,19.1 5.9,18.5 5.8,17.8 5.9,17 5.9,16 5.9,14.8 5.9,13.6 5.9,12.1 5.9,10.6 5.9,9 5.8,7.3 5.9,5.5 5.9,3.7 5.9,1.9 5.9,0.2 5.9,0 5.9,0 5.9,0 5.8,0 5.9,0 5.9,0 5.9,0 5.9,0 5.9,0 5.9,0 5.9,0 5.8,0 5.9,0 5.9,0 5.9,0 5.9,0"
+       id="path3953"
+       inkscape:connector-curvature="0"
+       style="stroke:#0000ff" />
+  </g>
+  <g
+     style="fill:none; color:red; stroke:rgb(  0,   0, 255); stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g3955" />
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g3957"
+     transform="translate(-34,0)">
+    <path
+       d="m 175.3,33.4 0,494.6 582.9,0 0,-494.6 -582.9,0 z"
+       id="path3959"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g3901-1"
+     style="font-size:30px;text-anchor:middle;color:#000000;fill:#000000;stroke:none;font-family:Arial"
+     transform="translate(432.0734,562.79323)">
+    <text
+       id="text3903-7">
+      <tspan
+         id="tspan3905-4">μ</tspan>
+    </text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0"
+     d="m 141.1634,115.03268 c 295.42484,0 294.11765,-1.30719 294.11765,-1.30719"
+     id="path4212"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:9, 9;stroke-dashoffset:0"
+     d="m 431.35948,115.03268 c 1.30719,410.45752 0,411.76471 0,411.76471"
+     id="path4982"
+     inkscape:connector-curvature="0" />
+</svg>

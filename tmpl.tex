@@ -1,0 +1,74 @@
+[[ define "Row" ]]
+[[- if index . 0 -]]
+    {\color{darkblue} \textbf{[[ index . 1 ]]}:} {[[ index . 0 ]]};\hspace{0.5cm}
+[[- end -]]
+[[ end ]]
+
+[[ define "RowF" ]]
+[[- if index . 0 -]]
+    {\color{darkblue} \textbf{[[ index . 1 ]]}:} {[[ index . 0 ]]}
+[[- end -]]
+[[ end ]]
+
+[[ define "RowOld" ]]
+[[ if index . 0 ]]
+    \textbf{[[ index . 1 ]]} & {[[ index . 0 ]]} \\
+[[ end ]]
+[[ end ]]
+
+[[ define "Row2" ]]
+[[ if index . 0 ]]
+    \textbf{[[ index . 1 ]]} & {[[ index . 0 ]]} & \\
+[[ end ]]
+[[ end ]]
+
+[[ define "Distr" ]]
+[[ .Section ]]
+
+[[if .Image ]]
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.6\textwidth]{images/[[ .Image.Filename ]]}
+        \caption{[[ .Image.Caption ]]}
+    \end{figure}
+[[ end ]]
+
+[[/* [[if or .Parameters .Notation ]]
+% \begin{tabularx}{\textwidth}{l | X | X}
+%     & & \textbf{Parameters} \\
+%     \hline
+%     \textbf{Not.} & {[[ .Notation ]]} & \multirow{4}{*}{[[ .Parameters ]]} \\
+%     [[ template "Row2" (arr .Support "$\\mathcal{W}(X)$")]]
+%     [[ template "Row2" (arr .Mean "$\\mathbb{E}[X]$")]]
+%     [[ template "Row2" (arr .Variance "$Var[X]$")]]
+% \end{tabularx}
+% [[end]] */]]
+
+% \begin{tabularx}{\textwidth}{l | X}
+    [[ template "Row" (arr .Parameters "Params.") -]]
+    [[- template "Row" (arr .Notation "Not.") -]]
+    [[- template "Row" (arr .Support "$\\mathcal{W}(X)$") -]]
+    [[- template "Row" (arr .Mean "$\\mathbb{E}[X]$") -]]
+    [[- template "Row" (arr .Variance "$Var[X]$") -]] \\
+    [[- template "RowF" (arr .PDF "$f_x$") -]]
+    [[- template "RowF" (arr .CDF "$F_x$") ]]
+% \end{tabularx}
+
+
+[[ end ]]
+
+[[ define "SecData"]]
+    [[range .Distrs]]
+        [[ template "Distr" . ]]
+    [[ end ]]
+[[ end ]]
+[[ range . ]]
+    [[ .Section 1 ]]
+        [[range .Subsections]]
+            [[ .Section 2 ]]
+
+            [[ template "SecData" . ]]
+        [[end]]
+
+        [[ template "SecData" . ]]
+[[end]]
